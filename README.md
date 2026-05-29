@@ -1,43 +1,45 @@
-<h1 align="center">Caio</h1>
+<div align="center">
 
-<p align="center">
-  Desenvolvedor Full-Stack | APIs REST | Automação | Web Apps
-</p>
+# ⚡ Caio
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;REST+API+Developer;Automation+Systems;Modern+Web+Applications;Backend+%26+Frontend+Developer" />
 
-## Sobre mim
+<img src="https://i.pinimg.com/originals/6b/9b/6e/6b9b6ef740c6fcb6fcbf8d5f9d76c6d8.gif" width="100%" />
 
-Sou desenvolvedor focado em criação de APIs REST, sistemas web, automações, bots, integrações e ferramentas modernas.
-
-Trabalho com PHP, Python, JavaScript, Node.js, MySQL, HTML, CSS e consumo de APIs.
+</div>
 
 ---
 
-## Tecnologias
+# 🚀 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,python,js,nodejs,mysql,html,css,git,github,vscode" />
-</p>
+```js
+class Developer {
+  constructor() {
+    this.name = "Caio";
+    this.role = "Full-Stack Developer";
+    this.languages = [
+      "PHP",
+      "Python",
+      "JavaScript",
+      "TypeScript"
+    ];
+  }
 
----
+  skills() {
+    return [
+      "REST APIs",
+      "Automation",
+      "Landing Pages",
+      "Web Systems",
+      "Modern UI",
+      "Bots",
+      "Database Systems",
+      "Authentication",
+      "Scrapers",
+      "Dashboards",
+      "Responsive Design"
+    ];
+  }
+}
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## Contato
-
-<p align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-</p>
+const caio = new Developer();
