@@ -2,7 +2,7 @@
 
 # ⚡ Caionix
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;REST+API+Developer;Automation+Developer;Modern+Web+Systems;Landing+Page+Creator" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;REST+API+Developer;Automation+Developer;Modern+Web+Systems" />
 
 </div>
 
@@ -10,28 +10,25 @@
 
 # 🚀 About Me
 
-- Full-Stack Developer
-- REST API Developer
-- Automation Developer
-- Modern Web Systems
-- Landing Pages
-- Responsive Interfaces
-- Backend & Frontend
+Full-Stack Developer focused on creating modern web systems, REST APIs, automation tools and responsive interfaces.
+
+I work mainly with backend development using PHP, Python, Node.js and MySQL, building functional and modern applications.
 
 ---
 
 # ⚡ What I Build
 
-✅ REST APIs  
-✅ Landing Pages  
-✅ Authentication Systems  
-✅ Dashboards  
-✅ Admin Panels  
-✅ Modern Websites  
-✅ Automation Systems  
-✅ Bots  
-✅ Responsive Interfaces  
-✅ Database Structures  
+* REST APIs
+* Web Systems
+* Landing Pages
+* Authentication Systems
+* Dashboards
+* Admin Panels
+* Responsive Interfaces
+* Automation Scripts
+* API Integrations
+* Database Structures
+* Modern Web Applications
 
 ---
 
@@ -39,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,python,nodejs,javascript,typescript,react,nextjs,html,css,tailwind,mysql,mongodb,git,github,docker,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=php,python,javascript,nodejs,mysql,html,css,git,github,vscode"/>
 
 </div>
 
@@ -47,38 +44,35 @@
 
 # 🔥 Backend
 
-- PHP
-- Python
-- Node.js
-- MySQL
-- MongoDB
-- REST APIs
-- JWT Authentication
-- API Integrations
+* PHP
+* Python
+* Node.js
+* MySQL
+* REST APIs
+* Authentication Systems
+* JSON APIs
+* API Integrations
 
 ---
 
 # 🎨 Frontend
 
-- React
-- Next.js
-- HTML
-- CSS
-- JavaScript
-- TailwindCSS
-- Responsive UI
-- Modern Interfaces
+* HTML
+* CSS
+* JavaScript
+* Responsive Interfaces
+* Modern Layouts
+* Landing Pages
 
 ---
 
 # 🤖 Automation
 
-- Browser Automation
-- API Automation
-- Scrapers
-- Fetch Automation
-- Monitoring Systems
-- Task Automation
+* Task Automation
+* Fetch Automation
+* API Requests
+* Data Extraction
+* Automation Scripts
 
 ---
 
@@ -99,16 +93,6 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=caionix&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=caionix&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
